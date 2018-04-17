@@ -1,0 +1,461 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+
+.container-fluid {
+    position: relative;
+
+}
+
+.image0 {
+    width: 1920px;
+    height: 1072px;
+    position: absolute;
+    z-index: 1;
+    background-image: url(images/layer-8.png);
+    background-size: cover;
+
+}
+
+.image1 {
+    /* Style for "Ellipse 1" */
+    width: 65px;
+    height: 69px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 929px;
+    margin-top: 286px;
+    background-image: url(images/ellipse.png);
+}
+
+
+.textOne {
+    /* Style for "WORKING  W" */
+    width: 583px;
+    height: 103px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 54px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "WORKING  ," */
+    letter-spacing: 8.62px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 668px;
+    margin-top: 449px;
+    text-align: center;
+
+}
+
+.textTwo {
+    /* Style for "WORKING  W" */
+    width: 593px;
+    height: 103px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 54px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "WORKING  ," */
+    letter-spacing: 8.62px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 668px;
+    margin-top: 520px;
+    text-align: left;
+
+}
+
+.textThree {
+    /* Style for "We’ve been" */
+    position: absolute;
+    z-index: 2;
+    margin-top: 634px;
+    margin-left: 678px;
+    width: 585px;
+    height: 70px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 29px;
+    text-transform: uppercase;
+    /* Text style for "W, e’ve be" */
+    letter-spacing: 0.9px;
+    text-align: center;
+    text-indent: -1rem;
+}
+
+.shape-1 {
+    /* Style for "Shape 1" */
+    width: 23px;
+    height: 37px;
+
+    margin-top: 948px;
+    margin-left: 970px;
+    position: absolute;
+    z-index: 2;
+    background-image: url(images/shape-1.png);
+
+}
+
+.messageCopy {
+    /* Style for "Message co" */
+    width: 902px;
+    height: 312px;
+    border: 2px solid #3c3c3c;
+    position: absolute;
+    margin-top: 146px;
+    margin-left: 125px;
+    text-align: center
+}
+
+
+.aboutUs {
+    /* Style for "ABOUT US" */
+    width: 300px;
+    background-color: #FFFFFF;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 34px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "ABOUT US" */
+    letter-spacing: 4.2px;
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 280px;
+    z-index: 2;
+    padding: 40px;
+    text-indent: 2.rem;
+    padding-right:
+}
+
+.someText {
+    /* Style for "When you w" */
+    width: 580px;
+    height: 183px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 160px;
+}
+
+.someText1 {
+    width: 393px;
+    height: 83px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 260px;
+    margin-top: -110px
+}
+
+.someText2 {
+    width: 440px;
+    height: 83px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 240px;
+    margin-top: -35px;
+}
+
+.someText3 {
+    width: 449px;
+    height: 83px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 240px;
+    margin-top: -35px;
+    text-indent: -1rem;
+}
+
+.layer4 {
+    position: ;
+    background-image: url(images/layer-4.png);
+    /* Style for "Layer 4" */
+    width: 1920px;
+    height: 488px;
+    margin-top: 590px;
+    background-size: cover;
+}
+
+.messageCopy4 {
+    /* Style for "Message co" */
+    width: 899px;
+    height: 251px;
+    border: 2px solid #ffffff;
+
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 140px;
+
+}
+
+.rectCopy {
+    /* Style for "Rectangle" */
+    width: 419px;
+    height: 111px;
+
+    position: absolute;
+    opacity: 100%;
+    margin-left: 250px;
+
+    margin-top: -60px;
+}
+
+.services {
+    /* Style for "SERVICES" */
+    width: 220px;
+    height: 46px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 34px;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    margin-left: 110px;
+    margin-top: 35px;
+
+
+
+    /* Text style for "SERVICES ," */
+    letter-spacing: 8.95px;
+
+}
+
+.someText4 {
+    /* Style for "Before we" */
+    width: 570px;
+    height: 118px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 70px;
+    margin-left: 165px;
+    text-align: center;
+    line-height: 25.89px;
+}
+
+.messageCopy5 {
+    /* Style for "Message co" */
+    width: 902px;
+    height: 1182px;
+    border: 2px solid #3c3c3c;
+    width: 902px;
+    height: 1182px;
+    opacity: 100%;
+    position: inside;
+    position: absolute;
+    margin-left: 513px;
+    margin-top: 2370px;
+
+}
+
+.whatWeDo {
+    /* Style for "what we do" */
+    width: 350px;
+    height: 26px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 34px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "what we do" */
+    letter-spacing: 4.1px;
+    margin-left: 280px;
+    margin-top: -20px;
+    background-color: #FFFFFF;
+    text-indent: 3rem;
+}
+
+.shape2 {
+    /* Style for "Shape 2" */
+    width: 80px;
+    height: 83px;
+    background-image: url(images/shape-2.png);
+    background-color: #FFFFFF;
+    margin-left: 450px;
+    margin-top: 150px;
+
+}
+
+.someText40 {
+    /* Style for "Our design" */
+    width: 541px;
+    height: 90px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 25.89px;
+}
+
+.design {
+    /* Style for "DESIGN" */
+    width: 87px;
+    height: 15px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "DESIGN" */
+    letter-spacing: 5.26px;
+    margin-left: 440px;
+    margin-top: 2px;
+
+}
+
+.shape3 {
+    /* Style for "Background" */
+    /* Style for "Shape 3" */
+    width: 79px;
+    height: 76px;
+    background-image: url(images/shape-3.png);
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.development {
+    /* Style for "Developmen" */
+    width: 178px;
+    height: 15px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "Developmen" */
+    letter-spacing: 5.26px;
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.someText5 {
+    /* Style for "All engine" */
+    width: 551px;
+    height: 64px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 25.89px;
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.shape4 {
+    /* Style for "Shape 4" */
+    width: 80px;
+    height: 91px;
+    background-image: url(images/shape-4.png);
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.productManagment {
+    /* Style for "Product Ma" */
+    width: 297px;
+    height: 15px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "Product Ma" */
+    letter-spacing: 5.26px;
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.someText6 {
+    /* Style for "Planning a" */
+    width: 522px;
+    height: 63px;
+    color: #3c3c3c;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 25.89px;
+    margin-left: 316px;
+    margin-top: 25px;
+}
+
+.part2 {
+
+    margin-top: 3625px;
+    position: absolute;
+    background-size: cover;
+
+
+}
+
+.picOne {
+    background-image: url(images/layer5.png);
+    background-size: cover;
+    height: 237px;
+    border-right: 15px solid white;
+    border-bottom: 15px solid white;
+}
+
+
+.picTwo {
+    background-image: url(images/layer6.png);
+    height: 237px;
+    background-size: cover;
+    border-right: 5px solid white;
+}
+
+.picThree {
+    background-image: url(images/layer7.png);
+    height: 237px;
+    background-size: cover;
+    border: 5px solid white;
+}
+
+
+.picFour {
+    background-image: url(images/layer8.png);
+    height: 237px;
+    background-size: cover;
+    border: 5px solid white;
+}
+
+
+.picFive {
+    background-image: url(images/layer9.png);
+    background-size: cover;
+    height: 237px;
+
+
+
+}
+
+.picSix {
+    background-image: url(images/layer10.png);
+    background-size: cover;
+    height: 237px;
+    border: 5px solid white;
+
+}
