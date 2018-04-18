@@ -263,7 +263,6 @@ body {
 
 .messageCopy5 {
     /* Style for "Message co" */
-    width: 902px;
     height: 1182px;
     border: 2px solid #3c3c3c;
     width: 902px;
@@ -274,6 +273,10 @@ body {
     margin-left: 513px;
     margin-top: 370px;
 
+}
+
+.part3 {
+    width: 1920px;
 }
 
 .whatWeDo {
