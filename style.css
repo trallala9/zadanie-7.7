@@ -1,6 +1,9 @@
-* {
+body {
     margin: 0 auto;
     padding: 0 auto;
+    /* Style for "project-09" */
+    width: 1920px;
+    height: 4685px;
 }
 
 
@@ -11,7 +14,7 @@
 }
 
 .image0 {
-    width: 1920px;
+    width: 1900px;
     height: 1072px;
     position: absolute;
     z-index: 1;
@@ -190,13 +193,14 @@
 }
 
 .layer4 {
-    position: ;
+    position: absolute;
     background-image: url(images/layer-4.png);
     /* Style for "Layer 4" */
     width: 1920px;
     height: 488px;
     margin-top: 590px;
     background-size: cover;
+
 }
 
 .messageCopy4 {
@@ -268,7 +272,7 @@
     position: inside;
     position: absolute;
     margin-left: 513px;
-    margin-top: 2370px;
+    margin-top: 370px;
 
 }
 
@@ -404,7 +408,7 @@
 
 .part2 {
 
-    margin-top: 3625px;
+    margin-top: 1800px;
     position: absolute;
     background-size: cover;
 
