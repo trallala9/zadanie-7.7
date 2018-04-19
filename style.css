@@ -99,7 +99,7 @@ body {
     height: 37px;
 
     margin-top: 948px;
-    margin-left: 970px;
+    margin-left: 918px;
     position: absolute;
     z-index: 2;
     background-image: url(images/shape-1.png);
@@ -113,7 +113,7 @@ body {
     border: 2px solid #3c3c3c;
     position: absolute;
     margin-top: 146px;
-    margin-left: 125px;
+    margin-left: 508px;
     text-align: center
 }
 
@@ -210,7 +210,7 @@ body {
     border: 2px solid #ffffff;
 
     position: absolute;
-    margin-left: 500px;
+    margin-left: 508px;
     margin-top: 140px;
 
 }
@@ -270,8 +270,8 @@ body {
     opacity: 100%;
     position: inside;
     position: absolute;
-    margin-left: 513px;
-    margin-top: 370px;
+    margin-left: 118px;
+    margin-top: 100px;
 
 }
 
@@ -291,7 +291,7 @@ body {
     /* Text style for "what we do" */
     letter-spacing: 4.1px;
     margin-left: 280px;
-    margin-top: -20px;
+    margin-top: -25px;
     background-color: #FFFFFF;
     text-indent: 3rem;
 }
@@ -302,20 +302,23 @@ body {
     height: 83px;
     background-image: url(images/shape-2.png);
     background-color: #FFFFFF;
-    margin-left: 450px;
+    margin-left: 430px;
     margin-top: 150px;
 
 }
 
 .someText40 {
     /* Style for "Our design" */
-    width: 541px;
+    width: 560px;
     height: 90px;
     color: #3c3c3c;
     font-family: Lato;
     font-size: 14px;
     font-weight: 300;
     line-height: 25.89px;
+    margin-top: 30px;
+    margin-left: 170px;
+    text-align: center;
 }
 
 .design {
@@ -329,8 +332,8 @@ body {
     text-transform: uppercase;
     /* Text style for "DESIGN" */
     letter-spacing: 5.26px;
-    margin-left: 440px;
-    margin-top: 2px;
+    margin-left: 420px;
+    margin-top: 20px;
 
 }
 
@@ -340,8 +343,8 @@ body {
     width: 79px;
     height: 76px;
     background-image: url(images/shape-3.png);
-    margin-left: 316px;
-    margin-top: 25px;
+    margin-left: 430px;
+    margin-top: 130px;
 }
 
 .development {
@@ -355,21 +358,22 @@ body {
     text-transform: uppercase;
     /* Text style for "Developmen" */
     letter-spacing: 5.26px;
-    margin-left: 316px;
+    margin-left: 366px;
     margin-top: 25px;
 }
 
 .someText5 {
     /* Style for "All engine" */
-    width: 551px;
+    width: 569px;
     height: 64px;
     color: #3c3c3c;
     font-family: Lato;
     font-size: 14px;
     font-weight: 300;
     line-height: 25.89px;
-    margin-left: 316px;
-    margin-top: 25px;
+    margin-left: 170px;
+    margin-top: 35px;
+    text-align: center;
 }
 
 .shape4 {
@@ -377,13 +381,13 @@ body {
     width: 80px;
     height: 91px;
     background-image: url(images/shape-4.png);
-    margin-left: 316px;
-    margin-top: 25px;
+    margin-left: 430px;
+    margin-top: 130px;
 }
 
 .productManagment {
     /* Style for "Product Ma" */
-    width: 297px;
+    width: 350px;
     height: 15px;
     color: #3c3c3c;
     font-family: Lato;
@@ -393,25 +397,26 @@ body {
     /* Text style for "Product Ma" */
     letter-spacing: 5.26px;
     margin-left: 316px;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 .someText6 {
     /* Style for "Planning a" */
-    width: 522px;
+    width: 550px;
     height: 63px;
     color: #3c3c3c;
     font-family: Lato;
     font-size: 14px;
     font-weight: 300;
     line-height: 25.89px;
-    margin-left: 316px;
-    margin-top: 25px;
+    margin-left: 170px;
+    margin-top: 30px;
+    text-align: center;
 }
 
 .part2 {
 
-    margin-top: 1800px;
+    margin-top: 1400px;
     position: absolute;
     background-size: cover;
 
@@ -422,8 +427,9 @@ body {
     background-image: url(images/layer5.png);
     background-size: cover;
     height: 237px;
-    border-right: 15px solid white;
-    border-bottom: 15px solid white;
+    border-right: 5px solid white;
+    border-bottom: 5px solid white;
+
 }
 
 
@@ -431,6 +437,8 @@ body {
     background-image: url(images/layer6.png);
     height: 237px;
     background-size: cover;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
     border-right: 5px solid white;
 }
 
@@ -438,7 +446,8 @@ body {
     background-image: url(images/layer7.png);
     height: 237px;
     background-size: cover;
-    border: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid white;
 }
 
 
@@ -446,7 +455,8 @@ body {
     background-image: url(images/layer8.png);
     height: 237px;
     background-size: cover;
-    border: 5px solid white;
+    border-right: 5px solid white;
+    border-top: 5px solid white;
 }
 
 
@@ -454,15 +464,19 @@ body {
     background-image: url(images/layer9.png);
     background-size: cover;
     height: 237px;
-
-
-
+    border-right: 5px solid white;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
 }
+
+
+
 
 .picSix {
     background-image: url(images/layer10.png);
     background-size: cover;
     height: 237px;
-    border: 5px solid white;
+    border-left: 5px solid white;
+    border-top: 5px solid white;
 
 }
